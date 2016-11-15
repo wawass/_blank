@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>_blank</title>
+  </head>
+  <body>
+    <nav>
+ <ul>
+  <li><a href= «html/Documents/Projets/Test/Test tableau.html»>Article1</a></li>
+   <li><a href= «html/Documents/Projets/Test/test indentation.html»>article2</a></li>
+  </ul>
+</nav>
+      <article>
+        <header>
+          <p>_blank</p>
+        </header>
+        <p>olé!</p>
+        <section>
+          <p>_blank</p>
+        </section>
+        <section>
+          <p>Olé!</p>
+        </section>
+        <section>
+          <p>_blank2</p>
+        </section>
+        <section>
+          <p>Olé!</p>
+        </section>
+      <footer>
+        <p>_Blank end</p>
+      </article>
+      </footer>
+  </body>
+</html>

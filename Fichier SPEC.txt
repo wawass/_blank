@@ -1,0 +1,18 @@
+﻿Page 1 :Une entête avec le titre du site  « Blog Musique »
+
+Une nav barre de recherche pour la recherche d’artistes ou de sorties musicales
+
+Deux sections sur le côté droit avec classé par genre différents types de musique 
+« electronic, instrumental »  
+
+Page 2 : 
+Chaque genre (2) mène a une nouvelle page avec des son référencés sous forme de liste et un lien menant à l’écoute du son et si disponible un lien de téléchargement. Il peut y avoir une image du cd ou de la tête de l’artiste pour chaque son.
+ 
+ 
+Page 1 : En main, les actus des différents artistes les plus récentes sous forme de Scroll horizontal. 
+ 
+Page 1: les différentes dates de concerts des artistes énoncés sur le site au niveau européen. 
+Liste des dates parisiennes-francaises + lien vers la billetterie   
+ 
+Page 1 : Contacts en footer
+

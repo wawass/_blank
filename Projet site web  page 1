@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Blog Musique</title>
+  </head>
+  <body>
+    <nav>
+      <p>barre de recherche</p>
+      <p>sorties musicales</p>
+    </nav>
+    <section>
+      <h3>Types de musique</h3>
+       <li>Electronic</li>
+    </section>
+    <section>
+       <li>Instrumental</li>
+    </section>
+    <aside>
+      <h2>dates de concerts</h2>
+        <li>rezqfrzqfrz<li>
+    </aside>
+    <footer>
+      <li>contact<li>
+    </footer>
+
+  </body>
+</html>
